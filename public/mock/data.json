@@ -1,0 +1,16 @@
+{
+  "cashTotal": "$18.6B",
+  "runwayWeeks": 52,
+  "hotspots": [
+    "CN FX",
+    "EUR Rates",
+    "Supplier: CATL"
+  ],
+  "varFx": "$12.4M",
+  "hedgeEff": "93%",
+  "signals": [
+    "Movement > $50M on USD/CNY",
+    "Counterparty exposure near threshold",
+    "CapEx gate slippage for Berlin plant"
+  ]
+}
